@@ -12,5 +12,6 @@ How to start?
 - Autoload ``database`` and ``url`` in ``application/config/autoload.php``
 - Import ``database.sql`` file to your database
 - Adjust ``.htaccess`` file to your needs
+- $route['default_controller'] = 'Projects';
 
 You're ready to go - ``http://localhost/your_project/projects``
